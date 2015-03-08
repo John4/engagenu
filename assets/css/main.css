@@ -267,16 +267,16 @@ a:before, a:after {
 #about img {
 	margin-top: 65px;
 }
-#services {
+#platform {
 	background: #f5f5f5;
 	padding: 60px 0;
 	text-align: center;
 }
-#services .fa {
+#platform .fa {
 	color: #ffbf00;
 }
-#services p {
-	text-align: center;
+#platform p {
+	text-align: left;
 }
 #team {
 	background: #f5f5f5;
