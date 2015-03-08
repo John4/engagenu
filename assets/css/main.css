@@ -306,6 +306,9 @@ a:before, a:after {
 #team .fa:hover {
 	background-color: #ffbf00;
 }
+.team-spacer {
+	margin-bottom: 2em !important;
+}
 #portfolio {
 	background: #fff;
 	padding: 60px 0;
