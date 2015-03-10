@@ -200,6 +200,10 @@ a:before, a:after {
 	-o-transition: color 0.1s ease-in, background 0.1s ease-in;
 	transition: color 0.1s ease-in, background 0.1s ease-in;
 }
+.left-aligned {
+	text-align: left;
+}
+
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
@@ -266,6 +270,23 @@ a:before, a:after {
 }
 #about img {
 	margin-top: 65px;
+}
+#about .fa {
+	width: 30px;
+	height: 30px;
+	margin: 0 3px;
+	border-radius: 100%;
+	font-size: 15px;
+	line-height: 30px;
+	outline: 0;
+	color: #fff;
+	background-color: #c4c4c4;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+}
+#about .fa:hover {
+	background-color: #ffbf00;
 }
 #platform {
 	background: #f5f5f5;
