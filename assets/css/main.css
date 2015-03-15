@@ -101,6 +101,10 @@ body {
 	background-color: #16a085;
 	color: white;
 }
+.nav-logo {
+	height: 25px;
+	background: none !important;
+}
 a img {
 	background: white;
 }
