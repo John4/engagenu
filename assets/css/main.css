@@ -332,13 +332,6 @@ a:before, a:after {
 .team-spacer {
 	margin-bottom: 2em !important;
 }
-#portfolio {
-	background: #fff;
-	padding: 60px 0;
-}
-#portfolio .btn-default {
-	border: 0;
-}
 #contact {
 	background: #fff;
 	padding: 60px 0;
