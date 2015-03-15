@@ -13,13 +13,13 @@ body {
  */
 
 ::-moz-selection {
- background: #f2c2c9;
- color: #a4003a;
+ background: #c0392b;
+ color: white;
  text-shadow: none;
 }
 ::selection {
-	background: #16a085;
-	color: #a4003a;
+	background: #c0392b;
+	color: white;
 	text-shadow: none;
 }
 /*
@@ -184,7 +184,7 @@ blockquote cite:before {
 }
 /* Links */
 a {
-	color: #4abcc5;
+	color: #c0392b;
 	word-wrap: break-word;
 	-webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
 	-moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -193,7 +193,7 @@ a {
 	transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 a:hover, a:focus {
-	color: #c0392b;
+	color: #A94949;
 	text-decoration: none;
 	outline: 0;
 }
@@ -252,7 +252,6 @@ a:before, a:after {
 	letter-spacing: 8px;
 	font-size: 100px;
 	font-weight: bold;
-	text-shadow: 0px 20px 7px #3da8ae;
 }
 #headerwrap .btn {
 	font-weight: 500;
@@ -261,7 +260,6 @@ a:before, a:after {
 	background-color: #A94949;
 	color: #fff;
 	text-shadow: 0 0 4px #bf9004;
-	box-shadow: -5px -5px 20px #3da8ae;
 	border: 0;
 }
 #headerwrap .btn:hover, #headerwrap .btn:focus {
