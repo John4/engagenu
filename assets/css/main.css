@@ -296,8 +296,8 @@ a:before, a:after {
 #about .fa:hover {
 	background-color: #A94949;
 }
-#platform {
-	background: #f5f5f5;
+#platform, #laughing {
+	background: #fff;
 	padding: 60px 0;
 	text-align: center;
 }
