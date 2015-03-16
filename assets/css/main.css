@@ -219,7 +219,7 @@ a:before, a:after {
 	text-align: center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 750px;
 	width: 100%;
 	-webkit-background-size: 100%;
 	-moz-background-size: 100%;
@@ -265,6 +265,12 @@ a:before, a:after {
 #headerwrap .btn:hover, #headerwrap .btn:focus {
 	background-color: #853A3A;
 	outline: 0px;
+}
+.clearfix {
+	position: absolute;
+	bottom: 60px;
+	left: 0;
+	right: 0;
 }
 #about {
 	background: #fff;
