@@ -277,7 +277,7 @@ a:before, a:after {
 	padding: 60px 0;
 }
 #about img {
-	margin-top: 65px;
+	/*margin-top: 65px;*/
 }
 #about .fa {
 	width: 30px;
