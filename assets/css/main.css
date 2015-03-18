@@ -296,6 +296,17 @@ a:before, a:after {
 #about .fa:hover {
 	background-color: #A94949;
 }
+/*#about ul.social-buttons {
+	margin: 0;
+}
+#about ul.social-buttons li a {
+	font-size: 24px;
+	outline: 0;
+	color: #999;
+}
+#about ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
+	color: #A94949;
+}*/
 #platform, #laughing {
 	background: #fff;
 	padding: 60px 0;
