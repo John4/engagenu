@@ -230,6 +230,7 @@ a:before, a:after {
 	-o-background-size: cover;
 	background-size: cover;
 	padding-bottom: 100px;
+	position: relative;
 }
 #headerwrap h1 {
 	color: #ffffff;
@@ -256,7 +257,6 @@ a:before, a:after {
 #headerwrap .btn {
 	font-weight: 500;
 	font-size: 20px;
-	margin: 50px 0;
 	background-color: #A94949;
 	color: #fff;
 	text-shadow: 0 0 4px #bf9004;
